@@ -21,7 +21,7 @@ Start the local development server
     npm start
     
 ## Routes
--   **GET:** [http://localhost:5000/api/animal/](http://localhost:5000/users)
+-   **GET:** [http://localhost:5000/api/users/](http://localhost:5000/users)
 -   **GET:** [http://localhost:5000/users/{id}](http://localhost:5000/users/{id})
 -   **POST:** [http://localhost:5000/users](http://localhost:5000/users)
 -   **PATCH:** [http://localhost:5000/users/{id}](http://localhost:5000/users/{id})
